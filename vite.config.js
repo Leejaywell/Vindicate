@@ -9,7 +9,7 @@ export default defineConfig({
     vue(),
   ],
   build: {
-    outDir: 'vindicate',
+    outDir: 'dist',
     chunkSizeWarningLimit: 600, // 设置警告阈值为 600 KB
     rollupOptions: {
       output: {
