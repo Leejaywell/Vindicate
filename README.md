@@ -1,7 +1,7 @@
 #程序员表白网页
 
 #在线预览
-https://static-mp-b6efc7e7-2a79-49c6-9cfa-5f337f7b3512.next.bspapp.com/vindicate/index.html
+https://leejaywell.github.com/vindicate/index.html
 
 #使用教程
 
