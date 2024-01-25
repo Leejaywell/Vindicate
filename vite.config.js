@@ -4,7 +4,7 @@ import CompressionPlugin from 'compression-webpack-plugin';
 import { terser } from 'rollup-plugin-terser';
 
 export default defineConfig({
-  base: './Vindicate',
+  base: '/Vindicate/',
   plugins: [
     vue(),
   ],
